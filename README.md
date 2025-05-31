@@ -12,9 +12,9 @@ Finally, since necessity is the mother of innovation, I am hopeful that working 
 ## Progress 
 - **Update (31/05/2025)**: The project has officially begun with the completion of the first milestone: reproducing nanoGPT, a super small and simple language model developed by Andrej Karpathy that recreates the architecture from the seminal "Attention Is All You Need" paper. This step took some time, as I was also diving deep into the underlying concepts of transformers and self-attention which are arguably the most critical ideas in modern LLMs. 
 
-- There are still some details that need to be cleaned up like with changing the hyperparameters for number of attention heads and number of attention+ff blocks, but I will patch those in soon. With this foundation in place, I'm excited to move on to the next set of goals. I expect each to take around 1–2 weeks, which also allows time for further research and learning of the topics as I go.
+- There are still some details that need to be cleaned up like with changing the hyperparameters for number of attention heads and number of attention+ff blocks, but I will patch those in soon.
 
-- After every milestone I will also release an additional notebook with observations, comments and extra information that illustrates my learning process. I will release the notebook for this goal soon (just need to clean it up)
+- With this foundation in place, I'm excited to move on to the next set of goals. I expect each to take around 1–2 weeks, which also allows time for further research and learning of the topics as I go. After every milestone I will also release an additional notebook with observations, comments and extra information that illustrates my learning process. I will release the notebook for this goal soon (just need to clean it up)
 
 ## All Goals:
 - **Attention Is All You Need**: Build a transformer (decoder) from scratch, inspired by Andrej Karpathy's nano-gpt
